@@ -5,7 +5,7 @@ import org.junit.Test;
 public class HorusTestSuite {
 
     @Test
-    void contextLoads() {
+    public void contextLoads() {
 
     }
 }
